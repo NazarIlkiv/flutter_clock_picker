@@ -12,5 +12,9 @@ I hope this code helps you accomplish your task.
 
 **IF THIS CODE HELPED YOU – DON'T FORGET TO GIVE IT A STAR!** ⭐
 
+### Clock Picker Preview
+
+<img src="assets/clock_presentation.gif" width="393" height="852"/>
+
 ## Keywords
 clock picker, time picker, hour picker, flutter time selector, custom time picker, flutter clock component, time input, UI time picker
